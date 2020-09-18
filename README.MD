@@ -1,5 +1,5 @@
 # NextJS & Auth0 Example
-Virtual comics app is a static website create to test AWS CI/CD capabilities and services. 
+This is a small example based on [this](https://auth0.com/blog/next-js-authentication-tutorial/#Prerequisites) Auth0 tutorial.
 
 ## Pre requisites
 - Create an [Auth0](https://auth0.com/) application
